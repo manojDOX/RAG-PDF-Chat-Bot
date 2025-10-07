@@ -41,6 +41,10 @@ This project leverages the **Retrieval-Augmented Generation (RAG)** technique, e
    - Uses `google/flan-t5-base` (local model) to generate precise answers.  
 
 ---
+## 🎥 Demo Preview
+
+🎬 [Click here to watch the full demo video](https://drive.google.com/file/d/1pcHQNukOMfa6MEUe7xHISuV1OkBldfne/view?usp=sharing)
+
 
 ## 🧰 Tech Stack  
 
